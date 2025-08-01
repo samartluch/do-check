@@ -44,6 +44,31 @@ normal text
      1. sub 1
      2. sub 2
 
+## Image
+![alt text](image.png)
+
+## Link
+CSS Framework [Bootstrap](https://getbootstrap.com/)
+
+## Singlie line code
+`print("Hello word")`
+
+## multiple Line
+```Python
+for i in range(10):
+    print(i)
+```
+
+```html
+<h1>Hello</h1>
+<p>Text</p>
+```
+``` bash
+npm i express
+pip install cv2
+composer install
+```
+
 
 
 
